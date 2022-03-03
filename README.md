@@ -1,7 +1,7 @@
-api endpoints:
+#Description:
 
-Question 1: Retrieve the data of all the users from the json file and send the response back.
-HTTP Message Type: GET
+**Question 1**: Retrieve the data of all the users from the json file and send the response back.\
+**HTTP Message Type**: GET\
 api endpoint: https://users-app-ss.herokuapp.com/api/users
 
 Question 2: Retrieve Leo Gillespie’s data from the json file and send the response back. 
