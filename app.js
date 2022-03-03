@@ -4,7 +4,6 @@ var fs = require('fs');
 var app = express()
 
 var bodyParser = require("body-parser");
-const { send } = require("process");
 app.use(bodyParser.json());
 
 var HTTP_PORT = process.env.PORT || 3000
