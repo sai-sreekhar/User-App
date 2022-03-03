@@ -16,7 +16,7 @@
 **HTTP Request Body**: None\
 **Note**:  Ben Hadley’s role Id is sent in path.\
 **api endpoint**: https://users-app-ss.herokuapp.com/api/changerole/5c8a23412f8fb814b56fa18c \
-![Alt Text](https://github.com/sai-sreekhar/User-App/blob/main/screenshots/Level-1%20Question-3%20(user%20id%20is%20sent%20in%20path).jpg)
+![Alt Text](https://github.com/sai-sreekhar/User-App/blob/main/screenshots/Level-1%20Question-3%20(user-id%20is%20sent%20in%20path).jpg)
 
 **Question 4**: Create a new user with any sample data of your choice and write it to a new file called newUser.json.\
 **HTTP Message Type**: POST\
